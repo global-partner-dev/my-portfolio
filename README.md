@@ -1,12 +1,54 @@
-# <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
+# Personal Portfolio
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
+This is a personal portfolio website to showcase my skills, technology stack, and featured projects. The site is built with HTML, CSS, and JavaScript, and is fully responsive for all devices.
 
- <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using using Jekyll, Sass, and Gulp.js.</p>
+## Features
 
-![My Alternate Portfolio Website]()
+- **About Me**: Introduction and profile section.
+- **Technology Stack**: Visual display of languages, frameworks, and tools.
+- **Projects**: Gallery of selected projects with descriptions and links.
+- **Responsive Design**: Optimized for desktop and mobile.
+- **Smooth Scrolling & Animations**: Enhanced user experience with smooth scroll and typing effects.
+- **Google Analytics**: Integrated for visitor tracking (respects Do Not Track).
 
-Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+## Folder Structure
+
+```
+portfolio-main/
+├── assets/
+│   ├── css/
+│   ├── fonts/
+│   ├── img/
+│   └── js/
+├── index.html
+└── README.md
+```
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/portfolio-main.git
+   cd portfolio-main
+   ```
+
+2. **Open `index.html` in your browser.**
+
+No build steps are required.
+
+## Customization
+
+- Update `index.html` with your own information, projects, and images.
+- Modify styles in `assets/css/main.css`.
+- Add or update icons in `assets/img` or use [devicon](https://devicon.dev/) for technology logos.
+
+## Credits
+
+- [Devicon](https://devicon.dev/) for technology icons
+- [Simple Icons](https://simpleicons.org/)
+- [Particles.js](https://vincentgarreau.com/particles.js/)
+- [Typed.js](https://mattboldt.com/demos/typed-js/)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
