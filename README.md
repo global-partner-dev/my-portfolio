@@ -42,13 +42,3 @@ No build steps are required.
 - Modify styles in `assets/css/main.css`.
 - Add or update icons in `assets/img` or use [devicon](https://devicon.dev/) for technology logos.
 
-## Credits
-
-- [Devicon](https://devicon.dev/) for technology icons
-- [Simple Icons](https://simpleicons.org/)
-- [Particles.js](https://vincentgarreau.com/particles.js/)
-- [Typed.js](https://mattboldt.com/demos/typed-js/)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
